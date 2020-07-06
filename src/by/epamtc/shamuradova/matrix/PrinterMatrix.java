@@ -1,4 +1,4 @@
-package by.epamtc.shamuradova.arrayOfArray;
+package by.epamtc.shamuradova.matrix;
 
 public class PrinterMatrix {
     public static void arrayPrint(int[][] array) {

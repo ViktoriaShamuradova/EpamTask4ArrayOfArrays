@@ -1,6 +1,6 @@
-package by.epamtc.shamuradova.arrayOfArray.task5;
+package by.epamtc.shamuradova.matrix.task5;
 
-import by.epamtc.shamuradova.arrayOfArray.PrinterMatrix;
+import by.epamtc.shamuradova.matrix.PrinterMatrix;
 
 
 public class Runner {

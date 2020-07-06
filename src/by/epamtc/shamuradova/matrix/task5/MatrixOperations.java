@@ -1,4 +1,4 @@
-package by.epamtc.shamuradova.arrayOfArray.task5;
+package by.epamtc.shamuradova.matrix.task5;
 
 public class MatrixOperations {
 

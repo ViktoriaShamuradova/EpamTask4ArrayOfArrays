@@ -1,7 +1,7 @@
-package by.epamtc.shamuradova.arrayOfArray.task1234;
+package by.epamtc.shamuradova.matrix.task1234;
 
-import by.epamtc.shamuradova.arrayOfArray.PrinterMatrix;
-import by.epamtc.shamuradova.arrayOfArray.task5.MatrixOperations;
+import by.epamtc.shamuradova.matrix.PrinterMatrix;
+import by.epamtc.shamuradova.matrix.task5.MatrixOperations;
 
 public class FormMatrix {
 

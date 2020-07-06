@@ -1,4 +1,4 @@
-package by.epamtc.shamuradova.arrayOfArray.task6;
+package by.epamtc.shamuradova.matrix.task6;
 
 import java.util.Scanner;
 
